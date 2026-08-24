@@ -1,10 +1,10 @@
 {
   "name": "VigIA de SeoNova",
-  "version": "0.3.1",
+  "version": "0.4.0",
   "download_url": "https://raw.githubusercontent.com/Pulsar369/vigia-updates/main/vigia-de-seonova.zip",
   "homepage": "https://wpo-toolkit.com/vigia-de-seonova",
   "requires": "5.2",
   "requires_php": "7.4",
   "tested": "6.8",
-  "changelog": "<h4>0.3.1</h4>\n<ul><li>\"Check for updates\" link moved to the description row (next to Version | By |</li></ul>\n  Visit plugin site) instead of the Deactivate action row.\n"
+  "changelog": "<h4>0.4.0</h4>\n<ul><li>Panel language switch (ES/EN) next to the theme toggle, remembered per user</li>\n  like the dark/light choice.\n<li>Verdict card now shows a progress bar filling toward the data it needs</li></ul>\n  (days with traffic + visits) instead of just a text line.\n"
 }
