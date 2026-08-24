@@ -1,10 +1,10 @@
 {
   "name": "VigIA de SeoNova",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "download_url": "https://raw.githubusercontent.com/Pulsar369/vigia-updates/main/vigia-de-seonova.zip",
   "homepage": "https://wpo-toolkit.com/vigia-de-seonova",
   "requires": "5.2",
   "requires_php": "7.4",
   "tested": "6.8",
-  "changelog": "<h4>0.4.0</h4>\n<ul><li>Panel language switch (ES/EN) next to the theme toggle, remembered per user</li>\n  like the dark/light choice.\n<li>Verdict card now shows a progress bar filling toward the data it needs</li></ul>\n  (days with traffic + visits) instead of just a text line.\n"
+  "changelog": "<h4>0.4.1</h4>\n<ul><li>Fix: the ES/EN language switch had no effect. Now the chosen language is</li></ul>\n  applied via the plugin_locale filter when translations load, instead of\n  switching mid-page (which WordPress ignored for already-loaded strings).\n"
 }
