@@ -1,10 +1,10 @@
 {
   "name": "VigIA de SeoNova",
-  "version": "0.4.5",
+  "version": "0.4.6",
   "download_url": "https://raw.githubusercontent.com/Pulsar369/vigia-updates/main/vigia-de-seonova.zip",
   "homepage": "https://wpo-toolkit.com/vigia-de-seonova",
   "requires": "5.2",
   "requires_php": "7.4",
   "tested": "6.8",
-  "changelog": "<h4>0.4.5</h4>\n<ul><li>Verdict box now tinted green / amber / red according to the verdict level</li>\n  (also in preliminary mode, where the border stays dashed).\n<li>Level 1 also mentions Cloudflare: not needed for bots at that level, but as</li></ul>\n  an optional free bonus that speeds up the site.\n"
+  "changelog": "<h4>0.4.6</h4>\n<ul><li>Every verdict level now links to a plain-language guide on our blog about</li></ul>\n  what Cloudflare can do for your site (free vs Pro).\n"
 }
