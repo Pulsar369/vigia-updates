@@ -1,10 +1,10 @@
 {
   "name": "Vigía de Bots",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "download_url": "https://raw.githubusercontent.com/Pulsar369/vigia-updates/main/vigia-de-bots.zip",
   "homepage": "https://wpo-toolkit.com/vigia-de-bots",
   "requires": "5.2",
   "requires_php": "7.4",
   "tested": "6.8",
-  "changelog": "<h4>0.2.1</h4>\n<ul><li>Self-update from a public channel: no more manual ZIP uploads.</li></ul>\n"
+  "changelog": "<h4>0.2.2</h4>\n<ul><li>\"Check for updates\" link on the plugin row — no need to wait for the 6h check.</li></ul>\n"
 }
