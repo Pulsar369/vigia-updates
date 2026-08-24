@@ -1,10 +1,10 @@
 {
   "name": "Vigía de Bots",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "download_url": "https://raw.githubusercontent.com/Pulsar369/vigia-updates/main/vigia-de-bots.zip",
   "homepage": "https://wpo-toolkit.com/vigia-de-bots",
   "requires": "5.2",
   "requires_php": "7.4",
   "tested": "6.8",
-  "changelog": "<h4>0.2.2</h4>\n<ul><li>\"Check for updates\" link on the plugin row — no need to wait for the 6h check.</li></ul>\n"
+  "changelog": "<h4>0.2.3</h4>\n<ul><li>Static files (fonts, images, CSS, JS) no longer counted as visits — one</li>\n  pageview pulls dozens of them and they flooded the list.\n<li>Dark mode now paints the whole WordPress content column, no light gap.</li></ul>\n"
 }
