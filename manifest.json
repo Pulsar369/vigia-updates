@@ -1,10 +1,10 @@
 {
-  "name": "Vigía de Bots",
-  "version": "0.2.5",
-  "download_url": "https://raw.githubusercontent.com/Pulsar369/vigia-updates/main/vigia-de-bots.zip",
-  "homepage": "https://wpo-toolkit.com/vigia-de-bots",
+  "name": "VigIA de SeoNova",
+  "version": "0.3.0",
+  "download_url": "https://raw.githubusercontent.com/Pulsar369/vigia-updates/main/vigia-de-seonova.zip",
+  "homepage": "https://wpo-toolkit.com/vigia-de-seonova",
   "requires": "5.2",
   "requires_php": "7.4",
   "tested": "6.8",
-  "changelog": "<h4>0.2.5</h4>\n<ul><li>Names each bot: AdSense, Googlebot, Bingbot, Bing Ads… and a 'Who has</li></ul>\n  visited' section listing good vs bad bots with what each one is.\n"
+  "changelog": "<h4>0.3.0</h4>\n<ul><li>Renamed to VigIA de SeoNova.</li>\n<li>Dark mode: fixed the leftover white box (tables no longer use WordPress's</li></ul>\n  white 'widefat' style; the whole admin column follows the theme).\n"
 }
