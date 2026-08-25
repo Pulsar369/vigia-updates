@@ -1,10 +1,10 @@
 {
   "name": "VigIA de SeoNova",
-  "version": "0.4.6",
+  "version": "0.4.7",
   "download_url": "https://raw.githubusercontent.com/Pulsar369/vigia-updates/main/vigia-de-seonova.zip",
   "homepage": "https://wpo-toolkit.com/vigia-de-seonova",
   "requires": "5.2",
   "requires_php": "7.4",
   "tested": "6.8",
-  "changelog": "<h4>0.4.6</h4>\n<ul><li>Every verdict level now links to a plain-language guide on our blog about</li></ul>\n  what Cloudflare can do for your site (free vs Pro).\n"
+  "changelog": "<h4>0.4.7</h4>\n<ul><li>The Cloudflare guide link now points to the published article on</li></ul>\n  seonova.pro, in the panel's language (ES/EN).\n"
 }
