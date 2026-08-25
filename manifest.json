@@ -1,10 +1,10 @@
 {
   "name": "VigIA de SeoNova",
-  "version": "0.4.8",
+  "version": "0.5.0",
   "download_url": "https://raw.githubusercontent.com/Pulsar369/vigia-updates/main/vigia-de-seonova.zip",
   "homepage": "https://wpo-toolkit.com/vigia-de-seonova",
   "requires": "5.2",
   "requires_php": "7.4",
   "tested": "6.8",
-  "changelog": "<h4>0.4.8</h4>\n<ul><li>Google Cloud and AWS supernets added to the built-in data-center list: a</li>\n  cloud VM browsing with a normal browser UA is now flagged as data center\n  instantly (real case: a Google Cloud IP crawling a whole site as \"human\").\n<li>Cron self-heal: if the rDNS enricher or weekly report events ever go</li>\n  missing, they are re-scheduled automatically (checked once per hour).\n<li>rDNS pass now has a 10s time budget so slow DNS can never kill the run.</li>\n<li>Duplicate visits (same IP + same page within 60s) are recorded once.</li></ul>\n"
+  "changelog": "<h4>0.5.0</h4>\n<ul><li>\"Stop them\" button now goes to the real WPO Toolkit page on seonova.pro</li>\n  (waiting list today, store when it launches), in the panel's language.\n<li>New collapsible \"Want to leave us a question or your opinion?\" form at the</li>\n  bottom of the panel — sent server-side to our inbox, optionally attaching\n  your site's diagnosis so we can help better.\n<li>Each bad bot now shows what WPO Toolkit would do about it.</li>\n<li>Optional anonymous weekly stats (opt-in, off by default; never your domain,</li>\n  IPs or visitors).\n<li>Review reminder prepared (stays dormant until the plugin is on wordpress.org).</li></ul>\n"
 }
