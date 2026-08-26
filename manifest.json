@@ -1,11 +1,11 @@
 {
   "name": "VigIA de SeoNova",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "download_url": "https://raw.githubusercontent.com/Pulsar369/vigia-updates/main/vigia-de-seonova.zip",
   "homepage": "https://seonova.pro/es/vigia",
   "requires": "5.2",
   "requires_php": "7.4",
   "tested": "6.8",
-  "changelog": "<h4>New</h4>\n<ul>\n<li>Colours in the latest-visits list: green for a person, blue for a verified good bot, red for a bad one. One glance, no reading.</li>\n<li>Two buttons to download what you see: the visits in full detail and the day-by-day summary, as CSV (opens in Excel or Google Sheets).</li>\n</ul>\n<h4>Better</h4>\n<ul>\n<li>The detailed list now keeps 1,000 visits instead of 500, so you can look further back.</li>\n<li>GoogleOther (the Google crawler that is NOT the Search one) now shows its name and its file instead of appearing as \"Mozilla\". Any bot disguised as a browser now shows its real name too.</li>\n</ul>",
-  "changelog_es": "<h4>Nuevo</h4>\n<ul>\n<li>Colores en la lista de últimas visitas: verde si es una persona, azul si es un bot bueno de verdad, rojo si es malo. Se ve de un vistazo sin leer.</li>\n<li>Dos botones para descargar lo que ves: las visitas con todo el detalle y el resumen día a día, en CSV (se abre en Excel o en Google Sheets).</li>\n</ul>\n<h4>Mejor</h4>\n<ul>\n<li>Se guardan 1.000 visitas con detalle en vez de 500, así puedes mirar más atrás.</li>\n<li>GoogleOther (el robot de Google que NO es el de la Búsqueda) ya sale con su nombre y su ficha en vez de aparecer como \"Mozilla\". De paso, cualquier bot disfrazado de navegador sale ahora con su nombre de verdad.</li>\n</ul>"
+  "changelog": "<h4>Better</h4>\n<ul>\n<li>The verdict no longer leaves you in the dark: with 3 days and 200 visits it already tells you what your site needs, marked as preliminary, and confirms it at 1,000. It used to stay silent until 1,000.</li>\n<li>If there is a shield in front of your site (Cloudflare, Sucuri, QUIC.cloud), the panel says so: whatever it blocks never reaches WordPress, so what you see here is what got through.</li>\n</ul>",
+  "changelog_es": "<h4>Mejor</h4>\n<ul>\n<li>El veredicto ya no te deja a ciegas: con 3 días y 200 visitas te dice lo que necesita tu web, marcado como provisional, y te lo confirma al llegar a 1.000. Antes callaba hasta las 1.000.</li>\n<li>Si tienes un escudo delante (Cloudflare, Sucuri, QUIC.cloud), el panel te lo dice: lo que ese escudo bloquea no llega nunca a WordPress, así que lo que ves aquí es lo que consiguió pasar.</li>\n</ul>"
 }
