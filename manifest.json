@@ -1,11 +1,11 @@
 {
   "name": "VigIA de SeoNova",
-  "version": "0.7.3",
+  "version": "0.7.4",
   "download_url": "https://raw.githubusercontent.com/Pulsar369/vigia-updates/main/vigia-de-seonova.zip",
   "homepage": "https://seonova.pro/es/vigia",
   "requires": "5.2",
   "requires_php": "7.4",
   "tested": "6.8",
-  "changelog": "<h4>New</h4>\n<ul>\n<li>A \"Send me a test report now\" button under the report settings: it sends the Monday email with your real data, without waiting for Monday. It does not use up the level-change notice, so Monday still gets it.</li>\n</ul>",
-  "changelog_es": "<h4>Nuevo</h4>\n<ul>\n<li>Botón \"Mandarme una prueba ahora\" debajo de los ajustes del informe: te manda el correo del lunes con tus datos de verdad, sin esperar al lunes. No se gasta el aviso de cambio de nivel, así que el lunes sigue saliendo.</li>\n</ul>"
+  "changelog": "<h4>Fixed</h4>\n<ul>\n<li>Your own site visiting itself (the WP Rocket preloader and WordPress internal calls) was counted as HUMAN visits. It no longer is.</li>\n<li>Bots whose name ends in \"Bot\" glued to another word (YouBot, Amzn-SearchBot) and names with an underscore (peer39_crawler) were counted as people. They are detected now.</li>\n<li>Seven crawlers show their real name instead of a cut URL or \"Mozilla\": YouBot, Amazon SearchBot, Sogou, Peer39, Proximic, HubSpot and SofyaBot.</li>\n</ul>",
+  "changelog_es": "<h4>Arreglado</h4>\n<ul>\n<li>Tu propia web visitandose a si misma (el precargador de WP Rocket y las llamadas internas de WordPress) se contaba como visitas de PERSONAS. Ya no se cuenta.</li>\n<li>Los bots cuyo nombre acaba en \"Bot\" pegado a otra palabra (YouBot, Amzn-SearchBot) y los que llevan guion bajo (peer39_crawler) se contaban como personas. Ahora se detectan.</li>\n<li>Siete rastreadores salen con su nombre de verdad en vez de una URL cortada o \"Mozilla\": YouBot, Amazon SearchBot, Sogou, Peer39, Proximic, HubSpot y SofyaBot.</li>\n</ul>"
 }
