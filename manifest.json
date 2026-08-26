@@ -6,6 +6,6 @@
   "requires": "5.2",
   "requires_php": "7.4",
   "tested": "6.8",
-  "changelog": "<h4>0.6.3</h4>\n<ul><li>When the plugin updates itself, the email WordPress sends you now tells you</li></ul>\n  what changed, in your language, with a link to the full news page.\n",
-  "changelog_es": ""
+  "changelog": "<h4>New</h4>\n<ul>\n<li>When the plugin updates itself, the email WordPress sends you no longer just says \"updated\": it now tells you what changed, in your language, with a link to this news page.</li>\n</ul>",
+  "changelog_es": "<h4>Nuevo</h4>\n<ul>\n<li>Cuando el plugin se actualiza solo, el correo que WordPress te manda ya no dice solo \"actualizado\": ahora cuenta qué ha cambiado, en tu idioma, con enlace a esta página de novedades.</li>\n</ul>"
 }
