@@ -1,11 +1,11 @@
 {
   "name": "VigIA de SeoNova",
-  "version": "0.6.4",
+  "version": "0.7.0",
   "download_url": "https://raw.githubusercontent.com/Pulsar369/vigia-updates/main/vigia-de-seonova.zip",
   "homepage": "https://seonova.pro/es/vigia",
   "requires": "5.2",
   "requires_php": "7.4",
   "tested": "6.8",
-  "changelog": "<h4>New</h4>\n<ul>\n<li>If your site has a page cache (WP Rocket, LiteSpeed, W3 Total Cache and others), the panel now tells you in one line. VigIA counts what reaches WordPress: with a cache in front the totals are a floor, not the full number. The percentages still hold, and bad bots show up anyway because they go for URLs nobody caches.</li>\n</ul>",
-  "changelog_es": "<h4>Nuevo</h4>\n<ul>\n<li>Si tu web tiene caché de página (WP Rocket, LiteSpeed, W3 Total Cache y otras), el panel te lo dice en una línea. VigIA cuenta lo que llega a WordPress: con una caché delante, los totales son un mínimo y no la cifra real. Los porcentajes siguen valiendo, y los bots malos aparecen igual porque van a URLs que nadie cachea.</li>\n</ul>"
+  "changelog": "<h4>New</h4>\n<ul>\n<li>Colours in the latest-visits list: green for a person, blue for a verified good bot, red for a bad one. One glance, no reading.</li>\n<li>Two buttons to download what you see: the visits in full detail and the day-by-day summary, as CSV (opens in Excel or Google Sheets).</li>\n</ul>\n<h4>Better</h4>\n<ul>\n<li>The detailed list now keeps 1,000 visits instead of 500, so you can look further back.</li>\n<li>GoogleOther (the Google crawler that is NOT the Search one) now shows its name and its file instead of appearing as \"Mozilla\". Any bot disguised as a browser now shows its real name too.</li>\n</ul>",
+  "changelog_es": "<h4>Nuevo</h4>\n<ul>\n<li>Colores en la lista de últimas visitas: verde si es una persona, azul si es un bot bueno de verdad, rojo si es malo. Se ve de un vistazo sin leer.</li>\n<li>Dos botones para descargar lo que ves: las visitas con todo el detalle y el resumen día a día, en CSV (se abre en Excel o en Google Sheets).</li>\n</ul>\n<h4>Mejor</h4>\n<ul>\n<li>Se guardan 1.000 visitas con detalle en vez de 500, así puedes mirar más atrás.</li>\n<li>GoogleOther (el robot de Google que NO es el de la Búsqueda) ya sale con su nombre y su ficha en vez de aparecer como \"Mozilla\". De paso, cualquier bot disfrazado de navegador sale ahora con su nombre de verdad.</li>\n</ul>"
 }
