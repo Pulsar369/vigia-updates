@@ -1,11 +1,11 @@
 {
   "name": "VigIA de SeoNova",
-  "version": "0.6.3",
+  "version": "0.6.4",
   "download_url": "https://raw.githubusercontent.com/Pulsar369/vigia-updates/main/vigia-de-seonova.zip",
   "homepage": "https://seonova.pro/es/vigia",
   "requires": "5.2",
   "requires_php": "7.4",
   "tested": "6.8",
-  "changelog": "<h4>New</h4>\n<ul>\n<li>When the plugin updates itself, the email WordPress sends you no longer just says \"updated\": it now tells you what changed, in your language, with a link to this news page.</li>\n</ul>",
-  "changelog_es": "<h4>Nuevo</h4>\n<ul>\n<li>Cuando el plugin se actualiza solo, el correo que WordPress te manda ya no dice solo \"actualizado\": ahora cuenta qué ha cambiado, en tu idioma, con enlace a esta página de novedades.</li>\n</ul>"
+  "changelog": "<h4>New</h4>\n<ul>\n<li>If your site has a page cache (WP Rocket, LiteSpeed, W3 Total Cache and others), the panel now tells you in one line. VigIA counts what reaches WordPress: with a cache in front the totals are a floor, not the full number. The percentages still hold, and bad bots show up anyway because they go for URLs nobody caches.</li>\n</ul>",
+  "changelog_es": "<h4>Nuevo</h4>\n<ul>\n<li>Si tu web tiene caché de página (WP Rocket, LiteSpeed, W3 Total Cache y otras), el panel te lo dice en una línea. VigIA cuenta lo que llega a WordPress: con una caché delante, los totales son un mínimo y no la cifra real. Los porcentajes siguen valiendo, y los bots malos aparecen igual porque van a URLs que nadie cachea.</li>\n</ul>"
 }
