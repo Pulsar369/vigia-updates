@@ -1,11 +1,11 @@
 {
   "name": "VigIA de SeoNova",
-  "version": "0.7.5",
+  "version": "0.7.6",
   "download_url": "https://raw.githubusercontent.com/Pulsar369/vigia-updates/main/vigia-de-seonova.zip",
   "homepage": "https://seonova.pro/es/vigia",
   "requires": "5.2",
   "requires_php": "7.4",
   "tested": "6.8",
-  "changelog": "<h4>Fixed</h4>\n<ul>\n<li>The privacy answer used to say \"no external services, no telemetry\". That stopped being true once the update check, the opt-in anonymous stats and the feedback box were added. It now says exactly what goes out, when, and what is stored about your visitors.</li>\n<li>Tested up to WordPress 7.1 (it still claimed 6.8).</li>\n</ul>",
-  "changelog_es": "<h4>Arreglado</h4>\n<ul>\n<li>La respuesta sobre privacidad decia \"no manda nada fuera, sin telemetria\". Dejo de ser verdad cuando se anadieron la comprobacion de version, las estadisticas anonimas (que van apagadas) y el buzon de dudas. Ahora dice exactamente que sale, cuando, y que se guarda de tus visitantes.</li>\n<li>Probado hasta WordPress 7.1 (ponia 6.8).</li>\n</ul>"
+  "changelog": "<h4>Better</h4>\n<ul>\n<li>The \"who has visited\" lists open with a coloured header row: blue for good bots, red for bad ones, with the total beside it. You can tell which list you are reading at a glance.</li>\n<li>The panel uses the full width instead of stopping halfway across the screen.</li>\n<li>The last-30-days block leads with three coloured labels (humans, good bots, bad bots) and a thin proportion bar underneath.</li>\n</ul>\n<h4>Fixed</h4>\n<ul>\n<li>In dark mode the \"I want WPO Toolkit to stop them\" link was dark blue on a dark background and could not be read.</li>\n</ul>",
+  "changelog_es": "<h4>Mejor</h4>\n<ul>\n<li>Las listas de \"quién ha pasado\" empiezan con una fila de color: azul los bots buenos, rojo los malos, y el total al lado. Se ve de un vistazo qué lista estas mirando.</li>\n<li>El panel ocupa todo el ancho, en vez de quedarse a media pantalla.</li>\n<li>El bloque de los ultimos 30 dias empieza con tres etiquetas de color (humanos, bots buenos, bots malos) y debajo una barra fina con la proporcion real.</li>\n</ul>\n<h4>Arreglado</h4>\n<ul>\n<li>En modo noche el enlace \"Quiero que WPO Toolkit los pare por mi\" salia azul oscuro sobre fondo oscuro y no se leia.</li>\n</ul>"
 }
