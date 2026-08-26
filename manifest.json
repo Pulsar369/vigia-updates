@@ -1,11 +1,11 @@
 {
   "name": "VigIA de SeoNova",
-  "version": "0.7.7",
+  "version": "0.7.8",
   "download_url": "https://raw.githubusercontent.com/Pulsar369/vigia-updates/main/vigia-de-seonova.zip",
   "homepage": "https://seonova.pro/es/vigia",
   "requires": "5.2",
   "requires_php": "7.4",
   "tested": "6.8",
-  "changelog": "<h4>Better</h4>\n<ul>\n<li>The daily chart draws the days you actually have, not 30 always. Freshly installed it used to be four bars squashed against the right edge of an empty box; now they fill the width.</li>\n<li>It has a grid with the numbers on the side, so the bars can be read, and dates along the bottom.</li>\n<li>The heading says the real number of days (\"Last 7 days\"), not a flat 30.</li>\n</ul>",
-  "changelog_es": "<h4>Mejor</h4>\n<ul>\n<li>La grafica de dias pinta los dias que TIENES, no 30 siempre. Recien instalado eran cuatro barras apretujadas contra el borde derecho de una caja vacia; ahora llenan el ancho.</li>\n<li>Lleva rejilla con los numeros al lado, para poder leer las barras, y las fechas debajo.</li>\n<li>El titulo dice los dias de verdad (\"Ultimos 7 dias\"), no 30 a secas.</li>\n</ul>"
+  "changelog": "<h4>Better</h4>\n<ul>\n<li>The daily chart spans the full width of the screen and stays wider than it is tall instead of turning into a giant square. Bars widen to fit the space they have.</li>\n</ul>",
+  "changelog_es": "<h4>Mejor</h4>\n<ul>\n<li>La grafica de dias ocupa toda la pantalla de ancho, y es apaisada en vez de convertirse en un cuadro enorme. Las barras se ensanchan segun el sitio que tengan.</li>\n</ul>"
 }
