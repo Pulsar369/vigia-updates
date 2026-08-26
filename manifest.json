@@ -1,10 +1,10 @@
 {
   "name": "VigIA de SeoNova",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "download_url": "https://raw.githubusercontent.com/Pulsar369/vigia-updates/main/vigia-de-seonova.zip",
   "homepage": "https://seonova.pro/es/vigia",
   "requires": "5.2",
   "requires_php": "7.4",
   "tested": "6.8",
-  "changelog": "<h4>0.6.0</h4>\n<ul><li>Click any visitor's name — good or bad — and it opens up: what it is, why it</li>\n  landed in that list, whether it brings you visits, whether it respects\n  robots.txt, when it first and last showed up, which pages it took, which\n  addresses it came from and how it introduces itself.\n<li>Files on the best known bots (Google, Bing, AdSense, GPTBot, ClaudeBot,</li>\n  Bytespider, Ahrefs, Semrush, Yandex, Baidu…) in plain words.\n<li>Updates itself when a new version comes out. Auto-updates are ON from the</li>\n  start; the switch is yours in the plugins list if you would rather approve\n  each update by hand.\n<li>Cleans up leftovers from older installs by itself (this plugin used to be</li></ul>\n  called Bot Cost Radar and then Vigia de Bots). No more ghost entries in the\n  plugins list that refuse to be deleted, and no more FTP. If a file cannot be\n  removed because of permissions, the plugin now says exactly which path it is.\n"
+  "changelog": "<h4>0.6.1</h4>\n<ul><li>The plugin is now signed by its real author: SeoNova.</li></ul>\n"
 }
