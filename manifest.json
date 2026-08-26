@@ -1,11 +1,11 @@
 {
   "name": "VigIA de SeoNova",
-  "version": "0.7.2",
+  "version": "0.7.3",
   "download_url": "https://raw.githubusercontent.com/Pulsar369/vigia-updates/main/vigia-de-seonova.zip",
   "homepage": "https://seonova.pro/es/vigia",
   "requires": "5.2",
   "requires_php": "7.4",
   "tested": "6.8",
-  "changelog": "<h4>Better</h4>\n<ul>\n<li>The Monday report compares you with last week (\"18% more bad bots\"), tells you the total spent since you installed VigIA, and announces the verdict only when the level changes instead of repeating it every Monday.</li>\n<li>It flags bots seen for the first time that week and brings a different WPO Toolkit advantage each week.</li>\n<li>If the week was quiet, the email is three lines long.</li>\n</ul>\n<h4>Fixed</h4>\n<ul>\n<li>\"The last 7 days\" counted 8. The window is now exact, and the day boundary uses your site time, not London time.</li>\n<li>The top offenders table says where its numbers come from when the log does not cover the whole week.</li>\n</ul>",
-  "changelog_es": "<h4>Mejor</h4>\n<ul>\n<li>El informe del lunes te compara con la semana pasada (\"un 18% más de bots malos\"), te dice lo que llevas gastado desde que instalaste VigIA y canta el veredicto solo cuando cambia de nivel, en vez de repetirte lo mismo todos los lunes.</li>\n<li>Te avisa de los bots que aparecen por primera vez esa semana y trae una ventaja distinta de WPO Toolkit cada semana.</li>\n<li>Si la semana ha sido tranquila, el correo es de tres líneas.</li>\n</ul>\n<h4>Arreglado</h4>\n<ul>\n<li>\"Los últimos 7 días\" contaban 8. Ahora la ventana es exacta, y el corte del día usa la hora de tu web, no la de Londres.</li>\n<li>La tabla de los peores dice de dónde salen sus números cuando el registro no cubre la semana entera.</li>\n</ul>"
+  "changelog": "<h4>New</h4>\n<ul>\n<li>A \"Send me a test report now\" button under the report settings: it sends the Monday email with your real data, without waiting for Monday. It does not use up the level-change notice, so Monday still gets it.</li>\n</ul>",
+  "changelog_es": "<h4>Nuevo</h4>\n<ul>\n<li>Botón \"Mandarme una prueba ahora\" debajo de los ajustes del informe: te manda el correo del lunes con tus datos de verdad, sin esperar al lunes. No se gasta el aviso de cambio de nivel, así que el lunes sigue saliendo.</li>\n</ul>"
 }
