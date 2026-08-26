@@ -1,11 +1,11 @@
 {
   "name": "VigIA de SeoNova",
-  "version": "0.7.4",
+  "version": "0.7.5",
   "download_url": "https://raw.githubusercontent.com/Pulsar369/vigia-updates/main/vigia-de-seonova.zip",
   "homepage": "https://seonova.pro/es/vigia",
   "requires": "5.2",
   "requires_php": "7.4",
   "tested": "6.8",
-  "changelog": "<h4>Fixed</h4>\n<ul>\n<li>Your own site visiting itself (the WP Rocket preloader and WordPress internal calls) was counted as HUMAN visits. It no longer is.</li>\n<li>Bots whose name ends in \"Bot\" glued to another word (YouBot, Amzn-SearchBot) and names with an underscore (peer39_crawler) were counted as people. They are detected now.</li>\n<li>Seven crawlers show their real name instead of a cut URL or \"Mozilla\": YouBot, Amazon SearchBot, Sogou, Peer39, Proximic, HubSpot and SofyaBot.</li>\n</ul>",
-  "changelog_es": "<h4>Arreglado</h4>\n<ul>\n<li>Tu propia web visitandose a si misma (el precargador de WP Rocket y las llamadas internas de WordPress) se contaba como visitas de PERSONAS. Ya no se cuenta.</li>\n<li>Los bots cuyo nombre acaba en \"Bot\" pegado a otra palabra (YouBot, Amzn-SearchBot) y los que llevan guion bajo (peer39_crawler) se contaban como personas. Ahora se detectan.</li>\n<li>Siete rastreadores salen con su nombre de verdad en vez de una URL cortada o \"Mozilla\": YouBot, Amazon SearchBot, Sogou, Peer39, Proximic, HubSpot y SofyaBot.</li>\n</ul>"
+  "changelog": "<h4>Fixed</h4>\n<ul>\n<li>The privacy answer used to say \"no external services, no telemetry\". That stopped being true once the update check, the opt-in anonymous stats and the feedback box were added. It now says exactly what goes out, when, and what is stored about your visitors.</li>\n<li>Tested up to WordPress 7.1 (it still claimed 6.8).</li>\n</ul>",
+  "changelog_es": "<h4>Arreglado</h4>\n<ul>\n<li>La respuesta sobre privacidad decia \"no manda nada fuera, sin telemetria\". Dejo de ser verdad cuando se anadieron la comprobacion de version, las estadisticas anonimas (que van apagadas) y el buzon de dudas. Ahora dice exactamente que sale, cuando, y que se guarda de tus visitantes.</li>\n<li>Probado hasta WordPress 7.1 (ponia 6.8).</li>\n</ul>"
 }
