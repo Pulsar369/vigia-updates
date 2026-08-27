@@ -1,11 +1,11 @@
 {
   "name": "VigIA de SeoNova",
-  "version": "0.9.1",
+  "version": "0.9.2",
   "download_url": "https://raw.githubusercontent.com/Pulsar369/vigia-updates/main/vigia-de-seonova.zip",
   "homepage": "https://seonova.pro/es/vigia",
   "requires": "5.4",
   "requires_php": "7.4",
   "tested": "6.8",
-  "changelog": "<h4>Improved</h4>\n<ul>\n<li>On update, the visits already stored are run through the new criteria once, so ad bots and traffic senders stop showing up in red and the misread names are fixed without waiting for them to visit again.</li>\n<li>The explanation under the tables can be closed too, and comes back in a month.</li>\n</ul>",
-  "changelog_es": "<h4>Mejor</h4>\n<ul>\n<li>Al actualizar, las visitas que ya estaban guardadas se pasan una vez por el criterio nuevo: los bots de anuncios y los que te traen visitas dejan de salir en rojo al momento, y los nombres mal leidos se arreglan sin esperar a que vuelvan a pasar.</li>\n<li>La explicacion de debajo de las tablas tambien se puede cerrar, y vuelve al mes.</li>\n</ul>"
+  "changelog": "<h4>Improved</h4>\n<ul>\n<li>The cache and Cloudflare notices now use the full width, like the explanation under the tables.</li>\n</ul>",
+  "changelog_es": "<h4>Mejor</h4>\n<ul>\n<li>Los avisos de la cache y de Cloudflare ocupan ya todo el ancho, igual que la explicacion de debajo de las tablas.</li>\n</ul>"
 }
