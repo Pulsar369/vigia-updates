@@ -1,11 +1,11 @@
 {
   "name": "VigIA de SeoNova",
-  "version": "0.9.3",
+  "version": "0.9.4",
   "download_url": "https://raw.githubusercontent.com/Pulsar369/vigia-updates/main/vigia-de-seonova.zip",
   "homepage": "https://seonova.pro/es/vigia",
   "requires": "5.4",
   "requires_php": "7.4",
   "tested": "6.8",
-  "changelog": "<h4>Fixed</h4>\n<ul>\n<li>After updating, the new column and the one-off re-pass were stuck behind an hourly stamp, so ad bots could stay red for up to an hour. They now run on their own, right away.</li>\n</ul>\n<h4>Improved</h4>\n<ul>\n<li>The same WPO Toolkit line no longer repeats under every bad bot. The offer is made once, in the link below the table.</li>\n</ul>",
-  "changelog_es": "<h4>Arreglado</h4>\n<ul>\n<li>Al actualizar, la columna nueva y el repaso se quedaban detras de un sello de una hora: los bots de anuncios podian seguir en rojo hasta 60 minutos. Ahora van por su cuenta y saltan al momento.</li>\n</ul>\n<h4>Mejor</h4>\n<ul>\n<li>Debajo de cada bot malo ya no se repite la misma frase de WPO Toolkit. La oferta se hace una vez, en el enlace de debajo de la tabla.</li>\n</ul>"
+  "changelog": "<h4>Improved</h4>\n<ul>\n<li>The two progress bars in the verdict are now the same length: the number on the right has a fixed slot, so \"2/3\" and \"604/1,000\" no longer move them.</li>\n</ul>",
+  "changelog_es": "<h4>Mejor</h4>\n<ul>\n<li>Las dos barras de progreso del veredicto miden ya lo mismo: la cifra de la derecha tiene su hueco fijo, asi que \"2/3\" y \"604/1.000\" ya no las descuadran.</li>\n</ul>"
 }
