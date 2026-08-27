@@ -1,11 +1,11 @@
 {
   "name": "VigIA de SeoNova",
-  "version": "0.8.12",
+  "version": "0.8.13",
   "download_url": "https://raw.githubusercontent.com/Pulsar369/vigia-updates/main/vigia-de-seonova.zip",
   "homepage": "https://seonova.pro/es/vigia",
   "requires": "5.4",
   "requires_php": "7.4",
   "tested": "6.8",
-  "changelog": "<h4>New</h4>\n<ul>\n<li>The cache and Cloudflare notices can be closed. They come back after a month, because those things change and a notice hidden forever ends up lying.</li>\n</ul>\n<h4>Improved</h4>\n<ul>\n<li>The day/night button now sits above the tower, like the moon or the sun over it.</li>\n<li>The red key reads Bad bots, the same name used everywhere else in the panel.</li>\n</ul>",
-  "changelog_es": "<h4>Nuevo</h4>\n<ul>\n<li>Los avisos de la cache y de Cloudflare se pueden cerrar con una X. No se van para siempre: vuelven al mes, porque esas cosas cambian y un aviso escondido para siempre acaba mintiendo.</li>\n</ul>\n<h4>Mejor</h4>\n<ul>\n<li>El boton de dia/noche va ahora encima de la torre, como la luna o el sol sobre ella.</li>\n<li>La clave roja dice Bots malos, que es como se llama en el resto del panel.</li>\n</ul>"
+  "changelog": "<h4>Improved</h4>\n<ul>\n<li>The ES/EN switch is now the plinth the tower stands on, with the moon or the sun above it: one single scene instead of three loose controls.</li>\n</ul>",
+  "changelog_es": "<h4>Mejor</h4>\n<ul>\n<li>El ES/EN es ahora la peana sobre la que se apoya la torre, con la luna o el sol encima: una sola escena en vez de tres mandos sueltos.</li>\n</ul>"
 }
