@@ -1,11 +1,11 @@
 {
   "name": "VigIA de SeoNova",
-  "version": "0.8.4",
+  "version": "0.8.5",
   "download_url": "https://raw.githubusercontent.com/Pulsar369/vigia-updates/main/vigia-de-seonova.zip",
   "homepage": "https://seonova.pro/es/vigia",
   "requires": "5.4",
   "requires_php": "7.4",
   "tested": "6.8",
-  "changelog": "<h4>0.8.4</h4>\n<ul><li>Screenshot captions for the WordPress.org listing.</li></ul>\n",
+  "changelog": "<h4>0.8.5</h4>\n<ul><li>Correct WordPress.org username in the readme.</li></ul>\n",
   "changelog_es": ""
 }
