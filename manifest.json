@@ -1,11 +1,11 @@
 {
   "name": "VigIA de SeoNova",
-  "version": "0.8.10",
+  "version": "0.8.11",
   "download_url": "https://raw.githubusercontent.com/Pulsar369/vigia-updates/main/vigia-de-seonova.zip",
   "homepage": "https://seonova.pro/es/vigia",
   "requires": "5.4",
   "requires_php": "7.4",
   "tested": "6.8",
-  "changelog": "<h4>New</h4>\n<ul>\n<li>New look: the menu icon is now a chess rook with an arrow slit instead of the generic WordPress shield, and the panel header carries the same mark, the wordmark and the three colour keys.</li>\n</ul>",
-  "changelog_es": "<h4>Nuevo</h4>\n<ul>\n<li>Cara nueva: el icono del menu ya no es el escudo generico de WordPress, es una torre de ajedrez con la saetera. Y la cabecera del panel lleva la misma torre, el nombre y las tres claves de color.</li>\n</ul>"
+  "changelog": "<h4>Fixed</h4>\n<ul>\n<li>On sites that cannot reach the WordPress emoji server, the coloured keys and the day/night button showed up as broken image icons. They are now drawn locally and nothing is fetched from outside.</li>\n</ul>\n<h4>Improved</h4>\n<ul>\n<li>The active panel language is now underlined, not just tinted.</li>\n</ul>",
+  "changelog_es": "<h4>Arreglado</h4>\n<ul>\n<li>En sitios que no llegan al servidor de emoji de WordPress, las bolitas de color y el boton de dia/noche salian como iconos de imagen rota. Ahora se dibujan aqui mismo y no se baja nada de fuera.</li>\n</ul>\n<h4>Mejor</h4>\n<ul>\n<li>El idioma del panel que esta activo se ve mejor: ademas del color, lleva una raya debajo.</li>\n</ul>"
 }
