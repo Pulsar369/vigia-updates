@@ -1,11 +1,11 @@
 {
   "name": "VigIA de SeoNova",
-  "version": "0.8.8",
+  "version": "0.8.9",
   "download_url": "https://raw.githubusercontent.com/Pulsar369/vigia-updates/main/vigia-de-seonova.zip",
   "homepage": "https://seonova.pro/es/vigia",
   "requires": "5.4",
   "requires_php": "7.4",
   "tested": "6.8",
-  "changelog": "<h4>Improved</h4>\n<ul>\n<li>The daily chart moves up next to the weekly bar, so the two pictures of the same traffic sit together, above the tables.</li>\n</ul>",
-  "changelog_es": "<h4>Mejor</h4>\n<ul>\n<li>La grafica de los dias sube al lado de la barra de la semana: los dos dibujos del mismo trafico van juntos, encima de las tablas.</li>\n</ul>"
+  "changelog": "<h4>Improved</h4>\n<ul>\n<li>The two first cards now carry the week-over-week change: visits per day and how many points the junk share moved, green when it drops and red when it climbs. The bot percentage now says junk bots, which is what it counts: verified good ones are listed separately.</li>\n</ul>",
+  "changelog_es": "<h4>Mejor</h4>\n<ul>\n<li>Las dos primeras tarjetas ya no estan medio vacias: dicen cuantas visitas al dia son y cuanto ha cambiado la semana frente a la anterior, en verde si la basura baja y en rojo si sube. El porcentaje de bots ahora dice bots basura, que es lo que cuenta: los buenos verificados van aparte.</li>\n</ul>"
 }
