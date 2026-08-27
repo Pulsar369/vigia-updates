@@ -1,11 +1,11 @@
 {
   "name": "VigIA de SeoNova",
-  "version": "0.7.8",
+  "version": "0.7.9",
   "download_url": "https://raw.githubusercontent.com/Pulsar369/vigia-updates/main/vigia-de-seonova.zip",
   "homepage": "https://seonova.pro/es/vigia",
   "requires": "5.2",
   "requires_php": "7.4",
   "tested": "6.8",
-  "changelog": "<h4>Better</h4>\n<ul>\n<li>The daily chart spans the full width of the screen and stays wider than it is tall instead of turning into a giant square. Bars widen to fit the space they have.</li>\n</ul>",
-  "changelog_es": "<h4>Mejor</h4>\n<ul>\n<li>La grafica de dias ocupa toda la pantalla de ancho, y es apaisada en vez de convertirse en un cuadro enorme. Las barras se ensanchan segun el sitio que tengan.</li>\n</ul>"
+  "changelog": "<h4>Better</h4>\n<ul>\n<li>Chart bars now have a maximum width. With only a few days of data they came out as huge blocks side by side, more wall than chart.</li>\n</ul>",
+  "changelog_es": "<h4>Mejor</h4>\n<ul>\n<li>Las barras de la grafica tienen ancho maximo. Con pocos dias de datos salian bloques enormes pegados unos a otros, mas muro que grafico.</li>\n</ul>"
 }
