@@ -1,11 +1,11 @@
 {
   "name": "VigIA de SeoNova",
-  "version": "0.8.3",
+  "version": "0.8.4",
   "download_url": "https://raw.githubusercontent.com/Pulsar369/vigia-updates/main/vigia-de-seonova.zip",
   "homepage": "https://seonova.pro/es/vigia",
   "requires": "5.4",
   "requires_php": "7.4",
   "tested": "6.8",
-  "changelog": "<h4>Better</h4>\n<ul>\n<li>Translations are loaded with load_textdomain() instead of the plugin helper WordPress.org has discouraged since 4.6. The bundled Spanish and the ES/EN switch keep working the same.</li>\n</ul>",
-  "changelog_es": "<h4>Mejor</h4>\n<ul>\n<li>Las traducciones se cargan con load_textdomain() en vez de la funcion de plugin que WordPress.org desaconseja desde la 4.6. El espanol que viaja dentro y el boton ES/EN siguen igual.</li>\n</ul>"
+  "changelog": "<h4>0.8.4</h4>\n<ul><li>Screenshot captions for the WordPress.org listing.</li></ul>\n",
+  "changelog_es": ""
 }
