@@ -1,11 +1,11 @@
 {
   "name": "VigIA de SeoNova",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "download_url": "https://raw.githubusercontent.com/Pulsar369/vigia-updates/main/vigia-de-seonova.zip",
   "homepage": "https://seonova.pro/es/vigia",
   "requires": "5.4",
   "requires_php": "7.4",
   "tested": "6.8",
-  "changelog": "<h4>Better</h4>\n<ul>\n<li>Passes the official WordPress.org checker with zero errors: output escaping, translator comments, sanitising of URL and server input, no direct file writes, and the panel styles and script loaded the WordPress way.</li>\n<li>It now requires WordPress 5.4 (it already used a function from that version, so claiming 5.2 was wrong).</li>\n</ul>",
-  "changelog_es": "<h4>Mejor</h4>\n<ul>\n<li>Pasa el corrector oficial de WordPress.org sin un solo error: escapado de la salida, comentarios para quien traduce, limpieza de lo que llega por la URL y del servidor, cero escrituras a fichero, y el estilo y el guion del panel cargados por la via oficial de WordPress.</li>\n<li>Ahora pide WordPress 5.4 (ya usaba una funcion de esa version, decir 5.2 era mentira).</li>\n</ul>"
+  "changelog": "<h4>Better</h4>\n<ul>\n<li>Second pass of the official checker: the last translator comments, escaping notes and header details.</li>\n</ul>",
+  "changelog_es": "<h4>Mejor</h4>\n<ul>\n<li>Segunda pasada del corrector oficial: los ultimos comentarios para quien traduce, las notas de escapado y detalles de la cabecera.</li>\n</ul>"
 }
