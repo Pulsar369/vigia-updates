@@ -1,11 +1,11 @@
 {
   "name": "VigIA de SeoNova",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "download_url": "https://raw.githubusercontent.com/Pulsar369/vigia-updates/main/vigia-de-seonova.zip",
   "homepage": "https://seonova.pro/es/vigia",
   "requires": "5.4",
   "requires_php": "7.4",
   "tested": "6.8",
-  "changelog": "<h4>New</h4>\n<ul>\n<li>New group: **bots that are worth it**. Ad verification, social link previews and real search engines used to be counted as junk and charged against your ad money, while their own card said do not block them. They now have their own group, out of the junk figure and out of the cost.</li>\n</ul>\n<h4>Fixed</h4>\n<ul>\n<li>A bot with a Mac user-agent was named after the computer (\"Intel\") instead of after itself, and the name is now also found when it comes at the end of the user-agent (OAI-SearchBot).</li>\n<li>WhatsApp link previews were counted as people.</li>\n<li>Google-Adstxt is now checked by IP like the rest of Google.</li>\n<li>The uninstaller left six options behind.</li>\n</ul>",
-  "changelog_es": "<h4>Nuevo</h4>\n<ul>\n<li>Grupo nuevo: **bots que te suman**. Los verificadores de anuncios, las redes que montan la tarjeta cuando te comparten y los buscadores de verdad se contaban como basura y se te cobraban en la estimacion de dinero, mientras su propia ficha decia \"no lo bloquees\". Ahora tienen su grupo, fuera del porcentaje de basura y fuera del coste.</li>\n</ul>\n<h4>Arreglado</h4>\n<ul>\n<li>Un bot con user-agent de Mac se llamaba como el ordenador (\"Intel\") en vez de como el mismo. Y ahora tambien se le encuentra el nombre cuando va al final del user-agent (OAI-SearchBot, el que te cita en ChatGPT).</li>\n<li>Las visitas de WhatsApp para montar la tarjeta del enlace se contaban como personas.</li>\n<li>Google-Adstxt se comprueba por IP como el resto de Google.</li>\n<li>El desinstalador se dejaba seis ajustes dentro.</li>\n</ul>"
+  "changelog": "<h4>Improved</h4>\n<ul>\n<li>On update, the visits already stored are run through the new criteria once, so ad bots and traffic senders stop showing up in red and the misread names are fixed without waiting for them to visit again.</li>\n<li>The explanation under the tables can be closed too, and comes back in a month.</li>\n</ul>",
+  "changelog_es": "<h4>Mejor</h4>\n<ul>\n<li>Al actualizar, las visitas que ya estaban guardadas se pasan una vez por el criterio nuevo: los bots de anuncios y los que te traen visitas dejan de salir en rojo al momento, y los nombres mal leidos se arreglan sin esperar a que vuelvan a pasar.</li>\n<li>La explicacion de debajo de las tablas tambien se puede cerrar, y vuelve al mes.</li>\n</ul>"
 }
