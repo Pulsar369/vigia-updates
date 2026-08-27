@@ -1,11 +1,11 @@
 {
   "name": "VigIA de SeoNova",
-  "version": "0.8.1",
+  "version": "0.8.2",
   "download_url": "https://raw.githubusercontent.com/Pulsar369/vigia-updates/main/vigia-de-seonova.zip",
   "homepage": "https://seonova.pro/es/vigia",
   "requires": "5.4",
   "requires_php": "7.4",
   "tested": "6.8",
-  "changelog": "<h4>Better</h4>\n<ul>\n<li>Second pass of the official checker: the last translator comments, escaping notes and header details.</li>\n</ul>",
-  "changelog_es": "<h4>Mejor</h4>\n<ul>\n<li>Segunda pasada del corrector oficial: los ultimos comentarios para quien traduce, las notas de escapado y detalles de la cabecera.</li>\n</ul>"
+  "changelog": "<h4>Better</h4>\n<ul>\n<li>The update-channel address now lives inside the updater file, so it is not even mentioned in the WordPress.org package.</li>\n</ul>",
+  "changelog_es": "<h4>Mejor</h4>\n<ul>\n<li>La direccion del canal de actualizacion vive ahora dentro del fichero del actualizador, asi que ni se menciona en el paquete de WordPress.org.</li>\n</ul>"
 }
