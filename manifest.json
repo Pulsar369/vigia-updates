@@ -1,11 +1,11 @@
 {
   "name": "VigIA de SeoNova",
-  "version": "0.8.9",
+  "version": "0.8.10",
   "download_url": "https://raw.githubusercontent.com/Pulsar369/vigia-updates/main/vigia-de-seonova.zip",
   "homepage": "https://seonova.pro/es/vigia",
   "requires": "5.4",
   "requires_php": "7.4",
   "tested": "6.8",
-  "changelog": "<h4>Improved</h4>\n<ul>\n<li>The two first cards now carry the week-over-week change: visits per day and how many points the junk share moved, green when it drops and red when it climbs. The bot percentage now says junk bots, which is what it counts: verified good ones are listed separately.</li>\n</ul>",
-  "changelog_es": "<h4>Mejor</h4>\n<ul>\n<li>Las dos primeras tarjetas ya no estan medio vacias: dicen cuantas visitas al dia son y cuanto ha cambiado la semana frente a la anterior, en verde si la basura baja y en rojo si sube. El porcentaje de bots ahora dice bots basura, que es lo que cuenta: los buenos verificados van aparte.</li>\n</ul>"
+  "changelog": "<h4>New</h4>\n<ul>\n<li>New look: the menu icon is now a chess rook with an arrow slit instead of the generic WordPress shield, and the panel header carries the same mark, the wordmark and the three colour keys.</li>\n</ul>",
+  "changelog_es": "<h4>Nuevo</h4>\n<ul>\n<li>Cara nueva: el icono del menu ya no es el escudo generico de WordPress, es una torre de ajedrez con la saetera. Y la cabecera del panel lleva la misma torre, el nombre y las tres claves de color.</li>\n</ul>"
 }
