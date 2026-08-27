@@ -1,11 +1,11 @@
 {
   "name": "VigIA de SeoNova",
-  "version": "0.8.5",
+  "version": "0.8.6",
   "download_url": "https://raw.githubusercontent.com/Pulsar369/vigia-updates/main/vigia-de-seonova.zip",
   "homepage": "https://seonova.pro/es/vigia",
   "requires": "5.4",
   "requires_php": "7.4",
   "tested": "6.8",
-  "changelog": "<h4>0.8.5</h4>\n<ul><li>Correct WordPress.org username in the readme.</li></ul>\n",
-  "changelog_es": ""
+  "changelog": "<h4>Improved</h4>\n<ul>\n<li>The weekly summary bar is now a single row: each block is as wide as its share and carries its name and its number inside. Before it was two rows saying the same thing.</li>\n</ul>",
+  "changelog_es": "<h4>Mejor</h4>\n<ul>\n<li>La barra del resumen de la semana es ahora una sola linea: cada bloque ocupa lo que le toca y lleva dentro su nombre y su cifra. Antes eran dos filas que decian lo mismo.</li>\n</ul>"
 }
