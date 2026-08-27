@@ -1,11 +1,11 @@
 {
   "name": "VigIA de SeoNova",
-  "version": "0.8.13",
+  "version": "0.8.14",
   "download_url": "https://raw.githubusercontent.com/Pulsar369/vigia-updates/main/vigia-de-seonova.zip",
   "homepage": "https://seonova.pro/es/vigia",
   "requires": "5.4",
   "requires_php": "7.4",
   "tested": "6.8",
-  "changelog": "<h4>Improved</h4>\n<ul>\n<li>The ES/EN switch is now the plinth the tower stands on, with the moon or the sun above it: one single scene instead of three loose controls.</li>\n</ul>",
-  "changelog_es": "<h4>Mejor</h4>\n<ul>\n<li>El ES/EN es ahora la peana sobre la que se apoya la torre, con la luna o el sol encima: una sola escena en vez de tres mandos sueltos.</li>\n</ul>"
+  "changelog": "<h4>New</h4>\n<ul>\n<li>The header is now a scene that follows the mode: dark sky with stars and a lit arrow slit at night, clear sky with the light off by day.</li>\n</ul>\n<h4>Improved</h4>\n<ul>\n<li>The moon and the sun now show where you are, not where you are going.</li>\n<li>The ES/EN switch became the ground under the tower, and the inactive language no longer fades out in light mode.</li>\n</ul>",
+  "changelog_es": "<h4>Nuevo</h4>\n<ul>\n<li>La cabecera es ahora una escena que sigue al modo: de noche, cielo oscuro con estrellas y la saetera de la torre encendida; de dia, cielo claro y la luz apagada.</li>\n</ul>\n<h4>Mejor</h4>\n<ul>\n<li>La luna y el sol dicen donde estas, no a donde vas.</li>\n<li>El ES/EN pasa a ser el suelo bajo la torre, y el idioma que no esta activo ya no se pierde en el modo dia.</li>\n</ul>"
 }
