@@ -1,11 +1,11 @@
 {
   "name": "VigIA de SeoNova",
-  "version": "0.9.8",
+  "version": "0.9.9",
   "download_url": "https://raw.githubusercontent.com/Pulsar369/vigia-updates/main/vigia-de-seonova.zip",
   "homepage": "https://seonova.pro/es/vigia",
   "requires": "5.4",
   "requires_php": "7.4",
   "tested": "6.8",
-  "changelog": "<h4>0.9.8</h4>\r\n<ul><li>The split is now readable. Each engine gets its own hoverable slice with</li>\r\n  its name, count and share, instead of one tooltip for the whole block.\r\n<li>Colours are far apart now (navy for Google, light sky for Bing, teal for</li>\r\n  the rest): two similar blues were impossible to tell apart in a thin bar.\r\n<li>Slices are sized against the traffic that is actually split, not the</li>\r\n  whole week, so a small engine is visible instead of a sub-pixel line. A\r\n  sentence under the bar says how much of the total the split covers.\r\n<li>A slice with traffic never drops below 2% of the block, so it can still</li></ul>\r\n  be seen and pointed at. Empty slices are not drawn.\r\n\r",
+  "changelog": "<h4>0.9.9</h4>\r\n<ul><li>Fixed a counter that would never settle: when a visit was moved between</li>\r\n  buckets by the periodic re-check, the good-bot total changed but the\r\n  per-engine counters did not. Each move left a permanent gap in the\r\n  split, so on a long-running site the \"before the split\" line could\r\n  never reach zero. The engine counter now moves with the bucket.\r\n<li>On a fresh install there is nothing to carry over, so that line never</li></ul>\r\n  appears at all.\r\n\r",
   "changelog_es": ""
 }
