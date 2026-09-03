@@ -1,11 +1,11 @@
 {
   "name": "VigIA de SeoNova",
-  "version": "0.9.6",
+  "version": "0.9.7",
   "download_url": "https://raw.githubusercontent.com/Pulsar369/vigia-updates/main/vigia-de-seonova.zip",
   "homepage": "https://seonova.pro/es/vigia",
   "requires": "5.4",
   "requires_php": "7.4",
   "tested": "6.8",
-  "changelog": "<h4>0.9.6</h4>\r\n<ul><li>Fixed: the split did not add up. Verified engines other than Google and</li></ul>\r\n  Bing (Applebot was 31% of the good bots on one site) were left out of it,\r\n  and the breakdown showed no remainder line, so two small numbers sat under\r\n  a large one. Every good bot now lands in one of three counters, and days\r\n  recorded before the split get their own line until they age out.\r\n\r",
+  "changelog": "<h4>0.9.7</h4>\r\n<ul><li>The good-bots bar is one block again. Splitting it into four separate</li></ul>\r\n  boxes made a small \"Google 33\" look as important as a large total and it\r\n  no longer read as a single group. The block now keeps its name and its\r\n  total and changes colour inside: dark blue for Google, light blue for\r\n  Bing, then the rest. A small key under the bar says which blue is which.\r\n\r",
   "changelog_es": ""
 }
