@@ -1,11 +1,11 @@
 {
   "name": "VigIA de SeoNova",
-  "version": "0.9.4",
+  "version": "0.9.5",
   "download_url": "https://raw.githubusercontent.com/Pulsar369/vigia-updates/main/vigia-de-seonova.zip",
   "homepage": "https://seonova.pro/es/vigia",
   "requires": "5.4",
   "requires_php": "7.4",
   "tested": "6.8",
-  "changelog": "<h4>Improved</h4>\n<ul>\n<li>The two progress bars in the verdict are now the same length: the number on the right has a fixed slot, so \"2/3\" and \"604/1,000\" no longer move them.</li>\n</ul>",
-  "changelog_es": "<h4>Mejor</h4>\n<ul>\n<li>Las dos barras de progreso del veredicto miden ya lo mismo: la cifra de la derecha tiene su hueco fijo, asi que \"2/3\" y \"604/1.000\" ya no las descuadran.</li>\n</ul>"
+  "changelog": "<h4>0.9.4</h4>\n<ul><li>The two progress bars in the verdict are now the same length: the number on</li></ul>\n  the right has a fixed slot, so \"2/3\" and \"604/1,000\" no longer move them.\n",
+  "changelog_es": ""
 }
