@@ -6,6 +6,6 @@
   "requires": "5.4",
   "requires_php": "7.4",
   "tested": "6.8",
-  "changelog": "<h4>0.9.4</h4>\n<ul><li>The two progress bars in the verdict are now the same length: the number on</li></ul>\n  the right has a fixed slot, so \"2/3\" and \"604/1,000\" no longer move them.\n",
+  "changelog": "<h4>0.9.5</h4>\r\n<ul><li>The blue \"good bots\" block is now split by search engine: dark blue for</li>\r\n  Google, light blue for Bing, and a third shade for the rest. Sites that\r\n  live off one engine and not the other could not see it before.\r\n<li>The split is counted in the daily totals, not estimated from the 1,000-row</li></ul>\r\n  visit buffer, so it is exact. Days recorded before this version keep\r\n  showing a single blue block instead of an invented split.\r\n\r",
   "changelog_es": ""
 }
