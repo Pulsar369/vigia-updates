@@ -1,11 +1,11 @@
 {
   "name": "VigIA de SeoNova",
-  "version": "0.9.5",
+  "version": "0.9.6",
   "download_url": "https://raw.githubusercontent.com/Pulsar369/vigia-updates/main/vigia-de-seonova.zip",
   "homepage": "https://seonova.pro/es/vigia",
   "requires": "5.4",
   "requires_php": "7.4",
   "tested": "6.8",
-  "changelog": "<h4>0.9.5</h4>\r\n<ul><li>The blue \"good bots\" block is now split by search engine: dark blue for</li>\r\n  Google, light blue for Bing, and a third shade for the rest. Sites that\r\n  live off one engine and not the other could not see it before.\r\n<li>The split is counted in the daily totals, not estimated from the 1,000-row</li></ul>\r\n  visit buffer, so it is exact. Days recorded before this version keep\r\n  showing a single blue block instead of an invented split.\r\n\r",
+  "changelog": "<h4>0.9.6</h4>\r\n<ul><li>Fixed: the split did not add up. Verified engines other than Google and</li></ul>\r\n  Bing (Applebot was 31% of the good bots on one site) were left out of it,\r\n  and the breakdown showed no remainder line, so two small numbers sat under\r\n  a large one. Every good bot now lands in one of three counters, and days\r\n  recorded before the split get their own line until they age out.\r\n\r",
   "changelog_es": ""
 }
