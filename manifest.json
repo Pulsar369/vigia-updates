@@ -1,11 +1,11 @@
 {
   "name": "VigIA de SeoNova",
-  "version": "0.9.9",
+  "version": "0.9.10",
   "download_url": "https://raw.githubusercontent.com/Pulsar369/vigia-updates/main/vigia-de-seonova.zip",
   "homepage": "https://seonova.pro/es/vigia",
   "requires": "5.4",
   "requires_php": "7.4",
   "tested": "6.8",
-  "changelog": "<h4>0.9.9</h4>\r\n<ul><li>Fixed a counter that would never settle: when a visit was moved between</li>\r\n  buckets by the periodic re-check, the good-bot total changed but the\r\n  per-engine counters did not. Each move left a permanent gap in the\r\n  split, so on a long-running site the \"before the split\" line could\r\n  never reach zero. The engine counter now moves with the bucket.\r\n<li>On a fresh install there is nothing to carry over, so that line never</li></ul>\r\n  appears at all.\r\n\r",
-  "changelog_es": ""
+  "changelog": "<h4>Fixed</h4>\n<ul>\n<li>Apple was trusted across its entire address block, so almost anyone claiming to be Apple's crawler got through. It is now checked against the 33 ranges Apple publishes.</li>\n<li>DuckDuckGo was checked against 4 hand-written addresses and now uses its 486 official ranges, so its real visits are no longer reported as fakes.</li>\n<li>Bing crawls from one set of addresses and renders the page from another. The second set was missing, so those visits were counted as impostors.</li>\n</ul>\n<h4>Improved</h4>\n<ul>\n<li>The lists are now built from the official sources, and a range wide enough to approve anyone stops the release.</li>\n</ul>",
+  "changelog_es": "<h4>Arreglado</h4>\n<ul>\n<li>A Apple se le daba por bueno su bloque de direcciones entero, así que casi cualquiera que dijera \"soy el robot de Apple\" pasaba el control. Ahora se comprueba contra la lista de 33 rangos que publica Apple.</li>\n<li>DuckDuckGo se comprobaba con 4 direcciones escritas a mano y ahora usa sus 486 rangos oficiales: sus visitas de verdad ya no salen como falsas.</li>\n<li>Bing rastrea desde unas direcciones y dibuja la página desde otras. Las segundas faltaban y se contaban como impostoras.</li>\n</ul>\n<h4>Mejor</h4>\n<ul>\n<li>Las listas se construyen solas desde las fuentes oficiales, y si alguna vez llega un rango tan ancho que aprobaría a cualquiera, la versión no se publica.</li>\n</ul>"
 }
