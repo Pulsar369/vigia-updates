@@ -1,11 +1,11 @@
 {
   "name": "VigIA de SeoNova",
-  "version": "0.9.13",
+  "version": "0.9.14",
   "download_url": "https://raw.githubusercontent.com/Pulsar369/vigia-updates/main/vigia-de-seonova.zip",
   "homepage": "https://seonova.pro/es/vigia",
   "requires": "5.4",
   "requires_php": "7.4",
   "tested": "6.8",
-  "changelog": "<h4>New</h4>\n<ul>\n<li>The panel now ends with a small footer saying who makes VigIA, with a link to seonova.pro and to the Telegram channel where we post what we find out about bots.</li>\n</ul>\n<h4>Improved</h4>\n<ul>\n<li>The version shown in the panel header is always the version of the plugin you have installed. They could drift apart before.</li>\n<li>Tested with WordPress 7.1.</li>\n</ul>\n<h4>Fixed</h4>\n<ul>\n<li>Amazon is no longer flagged as a suspicious visitor: we now recognise its 524 official ranges plus the 512 belonging to its product crawler (Amzn-SearchBot).</li>\n</ul>",
-  "changelog_es": "<h4>Nuevo</h4>\n<ul>\n<li>El panel termina ahora con un pie que dice quién hace VigIA, con enlace a seonova.pro y al canal de Telegram donde contamos lo que vamos descubriendo sobre bots.</li>\n</ul>\n<h4>Mejor</h4>\n<ul>\n<li>La versión que ves en la cabecera del panel es siempre la del plugin que tienes instalado. Antes podían separarse.</li>\n<li>Probado con WordPress 7.1.</li>\n</ul>\n<h4>Arreglado</h4>\n<ul>\n<li>Amazon deja de aparecer como visita sospechosa: ahora reconocemos sus 524 rangos oficiales y los 512 de su buscador de productos (Amzn-SearchBot).</li>\n</ul>"
+  "changelog": "<h4>0.9.14</h4>\n<ul><li>Amazon's crawlers are now recognised as what they are, so their visits stop</li></ul>\n  turning up among the suspicious ones.\n",
+  "changelog_es": ""
 }
