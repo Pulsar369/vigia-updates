@@ -1,11 +1,11 @@
 {
   "name": "VigIA de SeoNova",
-  "version": "0.9.11",
+  "version": "0.9.12",
   "download_url": "https://raw.githubusercontent.com/Pulsar369/vigia-updates/main/vigia-de-seonova.zip",
   "homepage": "https://seonova.pro/es/vigia",
   "requires": "5.4",
   "requires_php": "7.4",
   "tested": "6.8",
-  "changelog": "<h4>New</h4>\n<ul>\n<li>The breakdown of good bots now shows an arrow next to each engine: green up if it rose against the same seven days before, red down if it fell. Hover it and it tells you last week's figure.</li>\n<li>The panel header now shows the version you have installed.</li>\n</ul>\n<h4>Improved</h4>\n<ul>\n<li>The arrow stays hidden until there are two full weeks with the per-engine split, so the week the split started does not read as a huge rise.</li>\n<li>When the previous week had very few visits, only the arrow is shown, with no percentage: going from 12 visits to 141 is a real +1075% and still tells you nothing.</li>\n</ul>",
-  "changelog_es": "<h4>Nuevo</h4>\n<ul>\n<li>En el desglose de bots buenos, al lado de cada buscador sale ahora una flecha: verde hacia arriba si ha subido respecto a los mismos siete días anteriores, roja hacia abajo si ha bajado. Pasando el ratón te dice la cifra de la semana pasada.</li>\n<li>La cabecera del panel enseña la versión que tienes instalada.</li>\n</ul>\n<h4>Mejor</h4>\n<ul>\n<li>La flecha no aparece hasta que hay dos semanas enteras con el reparto por buscador. Así la semana en que empezó a contarse no se lee como una subida enorme.</li>\n<li>Si la semana anterior tuvo muy pocas visitas, sale solo la flecha, sin porcentaje: pasar de 12 visitas a 141 es un +1075% de verdad y no te dice nada.</li>\n</ul>"
+  "changelog": "<h4>Improved</h4>\n<ul>\n<li>The version in the header no longer looks like a badge stuck on the logo. It now sits on the same line as the name, in the subtitle colour, the way a version number should read: as a minor detail, not a label.</li>\n</ul>",
+  "changelog_es": "<h4>Mejor</h4>\n<ul>\n<li>La versión de la cabecera ya no parece un sello pegado sobre el logotipo. Ahora se apoya en la misma línea que el nombre y en el color del subtítulo, que es como se lee un número de versión: un dato menor, no una etiqueta.</li>\n</ul>"
 }
