@@ -6,6 +6,6 @@
   "requires": "5.4",
   "requires_php": "7.4",
   "tested": "6.8",
-  "changelog": "<h4>0.9.14</h4>\n<ul><li>Amazon's crawlers are now recognised as what they are, so their visits stop</li></ul>\n  turning up among the suspicious ones.\n",
-  "changelog_es": ""
+  "changelog": "<h4>Fixed</h4>\n<ul>\n<li>Amazon's crawlers are now recognised as what they are, so their visits stop turning up among the suspicious ones.</li>\n</ul>",
+  "changelog_es": "<h4>Arreglado</h4>\n<ul>\n<li>Los rastreadores de Amazon se reconocen ya como lo que son, así que sus visitas dejan de aparecer entre las sospechosas.</li>\n</ul>"
 }
